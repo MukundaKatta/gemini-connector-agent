@@ -58,5 +58,5 @@ fivetran-mcp, data-pipelines, streamlit, google-cloud-run, apache-2
 
 ## Try it out
 - Code repo: https://github.com/MukundaKatta/gemini-connector-agent
-- Live demo (Cloud Run): <PASTE_AFTER_DEPLOY>
-- Demo video (YouTube unlisted): <PASTE_AFTER_REC>
+- Live demo (Cloud Run): https://gemini-connector-agent-1029931682737.us-central1.run.app
+- Demo video (YouTube unlisted): https://youtu.be/HkmgtjsXduE
